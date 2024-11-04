@@ -6,13 +6,14 @@
   -   [DBWorkshop](https://github.com/mmeents/DBWorkshop) Windows App full source requires connecting to MS SQL for db Objects and then builds a tree and generates C# code. requires connecting to MS SQL Server.
   -   [Apiary](https://github.com/mmeents/Apiary).  Windows App full Source to connect to GitHub and follow in mass.
     -   After following 2500 here are the most followed from the lot.  [See Wiki Home Page](https://github.com/mmeents/Apiary/wiki)
+  -   [SlideSketch](https://github.com/mmeents/SlideSketch) Fun drawing app.  Full source shows techniques in drawing to bitmaps
       
   - [FileTableViewer](https://github.com/mmeents/FileTable)
     -   Generic GridView app to inspect and modify a FileTable's contents. Its located within the FileTable repo.
   
 - Package List:
   -   [AppCrypto](https://www.nuget.org/packages/AppCrypto/) NuGet Library 
-  -   [FileTable](https://github.com/mmeents/FileTable) NuGet Library Generic Tables using MessagePack 
+  -   [FileTable](https://github.com/mmeents/FileTable) NuGet Library Generic Tables using MessagePack.   
   -   [StaticExtensions](https://www.nuget.org/packages/StaticExtensions/) NuGet Library 
   
   
