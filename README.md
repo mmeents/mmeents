@@ -1,5 +1,5 @@
-- 👋 Yo, I’m Matt, [@mmeents](https://www.linkedin.com/in/mmeents/) on linked in and this, [My favorite link](https://mmeents.github.io/BigCryptoChart.html?tvwidgetsymbol=BITTREX%3AADABTC) warning music should autoplay and goes full screen...  need to change that but otherwise it's fire, non stop tunes limited commercials.  
-- 👀 I’m interested in Software Development and Crypto[^1] 
+- 👋 Yo, I’m Matt, LinkedIn: [@mmeents](https://www.linkedin.com/in/mmeents/), [My favorite link](https://mmeents.github.io/BigCryptoChart.html?tvwidgetsymbol=COINBASE%3ABTCUSD) it's fire, non-stop charts and tunes, limited commercials.  
+- 👀 I’m interested in Software Development, AI, and Crypto[^1] 
 - App List:
   -   [Prompter](https://github.com/mmeents/Prompter)  App to store trees and build complex AI prompts via templates.  displays to browser control locally. No db is required. 
   -   [AppSmith](https://github.com/mmeents/AppSmith)  Next-gen DB Workshop model maker.  Parse Online OpenApi.json into TreeView model.  Generate code from the model.  No Db is required. 
@@ -8,11 +8,14 @@
   -   [Apiary](https://github.com/mmeents/Apiary).  Windows App full Source to connect to GitHub and follow in mass.
     -   After following 2500 here are the most followed from the lot.  [See Wiki Home Page](https://github.com/mmeents/Apiary/wiki)
   -   [SlideSketch](https://github.com/mmeents/SlideSketch) Fun drawing app.  Full source shows techniques in drawing to bitmaps
-      
+
+  - [PackedTables.Viewer](https://github.com/mmeents/PackedTables.NET/tree/main/PackedTables.Viewer.Winforms/PackedTables.Viewer)
+    -   Next Generation Generic GridView App to inspect and create sets of data tables. 
   - [FileTableViewer](https://github.com/mmeents/FileTable)
     -   Generic GridView app to inspect and modify a FileTable's contents. Its located within the FileTable repo.
   
 - Package List:
+  -   [PackedTables.NET](https://github.com/mmeents/PackedTables.NET) a set of next Gen FileTables.
   -   [AppCrypto](https://www.nuget.org/packages/AppCrypto/) NuGet Library 
   -   [FileTable](https://github.com/mmeents/FileTable) NuGet Library Generic Tables using MessagePack.   
   -   [StaticExtensions](https://www.nuget.org/packages/StaticExtensions/) NuGet Library 
