@@ -1,7 +1,7 @@
 - 👋 Yo, I’m Matt, LinkedIn: [@mmeents](https://www.linkedin.com/in/mmeents/), [My favorite link](https://mmeents.github.io/BigCryptoChart.html?tvwidgetsymbol=COINBASE%3ABTCUSD) it's fire, non-stop charts and tunes, limited commercials.  
-- 👀 I’m interested in Software Development, AI, and Crypto[^1] 
+- 👀 I’m interested in Software Development, AI, and Crypto 
 - App List:
-  -   [WeaversGuild](https://github.com/mmeents/WeaversGuild) An attempt at an LM Studio and Claude Code windows app builder.  Using everything learned from below, this is the current WIP.
+  -   [WeaversGuild](https://github.com/mmeents/WeaversGuild) An Organization themed digital model.  Provieds access to LM Studio and Claude Code, Desktop via theLoomMcp tools. Models the Org as a set of Desk and Team Members and Todos.  All work is done via MCP. System Prompt is desk, User Prompt is the Todo. Todo's Marked Ready show up on the Schedule, Items on schedule run when Factory floor is on.  Evolved to the point that it made Storytime obsolete, having integrated the models and tools into the Guilds.  Desks point to other desks for forward todo, three states: CompleteForward, PushbackReject, FailForward. Agents Marking a Todo as complete makes a new todo on the forward desk to allow for chaining. Agents can make a todo and enable it, or Desks can point to themselves for Loops. 
   -   [Storytime](https://github.com/mmeents/Storytime) LM Studio and Claude Code (maybe Copilot) Story builder app. A Windows-form app attempts to do with agents a Virtual Production Company's development and production pipelines.  uses LLMs via servers and CLIs to write stories, giving a tree for humans to steer, and has 6 layers of generation. Starts with a Project -> Dev Manager Agent -> Story -> Story Writer Agent -> Scene, Characters -> Scene Writer Agent -> Beats -> Director Agent -> CallSheet -> Set Agent -> Performance -> Observer Agent -> Deliverable. Output example is [The comment that should not be there] (https://github.com/mmeents/Storytime/blob/main/TheCommentThatShouldNotBeThere.md) C#, Sql Server, MCPSharp (with my patch version, lol...) 
   -   [Drifters](https://github.com/mmeents/Drifters)  LM Studio Ef Core app to name a scene and let it evolve.   
   -   [DaemondsMCP](https://github.com/mmeents/DaemonsMCP) An array of apps and servers. Claude Desktop MCP App to give LLMs developer-like tools. works in Copilot, Claude Desktop and Claude Code, LM Studio (like Nvidia's new Nemotron model rocks).  Ended up adding some of the tools below, an Items tree for tickets, Models to design tables like AppSmith and DbWorkshop, Modern templating, along with an Angular front-end client.  
@@ -28,6 +28,4 @@
 - Links
   - [My Github IO Page](https://mmeents.github.io/default.html)
   - [Charts and Tunes](https://mmeents.github.io/BigCryptoChart.html?tvwidgetsymbol=COINBASE%3ABTCUSD)
-  
-[^1]: Donations Cardano: [addr1qxjk9yxfzj6tnrcvfrutfak2msqy288m5xde7aent6d5fsetdau7ku65wgql8cy0du7lgj7u2z4l6ntzzewp2mgxelvsfxpna6](https://cexplorer.io/address/addr1qxjk9yxfzj6tnrcvfrutfak2msqy288m5xde7aent6d5fsetdau7ku65wgql8cy0du7lgj7u2z4l6ntzzewp2mgxelvsfxpna6) 
 
